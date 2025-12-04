@@ -5,11 +5,6 @@ This repository contains the **backend** for a web platform dedicated to learnin
 The platform includes features such as user authentication, lab management, progress tracking, networking simulations, and a RESTful API.
 The backend is built with Node.js and Express, stores data in MongoDB, uses JWT for authentication, and leverages Docker for running network simulations. Nginx is used as a reverse proxy with HTTPS via Certbot for deployment, and PM2 manages production processes.
 
-🌐 **Live Demo:**
-👉 [Learn Network Technologies from Beginner to Professional](https://aist-frontend-73ux0flrc-alisagafarovas-projects.vercel.app/)
-
----
-
 ## 🌟 Features
 
 - User Authentication – Secure login and registration system.
@@ -20,9 +15,8 @@ The backend is built with Node.js and Express, stores data in MongoDB, uses JWT 
 
 ---
 
-## 🌐 Live Demo
-
-See the platform in action: [Live Demo](https://aist-alisagafarovas-projects.vercel.app/)
+🌐 **Live Demo:**
+👉 [Learn Network Technologies from Beginner to Professional](https://aist-frontend-73ux0flrc-alisagafarovas-projects.vercel.app/)
 
 ---
 
