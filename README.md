@@ -2,9 +2,11 @@
 
 This repository contains the **backend** for a web platform dedicated to learning networking technologies. The platform provides an interactive environment for students to complete network-related labs, track their progress, and learn theoretical concepts. Users can register and log in securely, access different network labs, track their progress, and perform hands-on networking simulations with tools such as **FRRouting** or **GNS3**. The backend exposes a RESTful API for managing users, labs, and progress data.
 
-The platform includes features such as user authentication, lab management, progress tracking, networking simulations, and a RESTful API. A live demo is available [here](https://aist-frontend-73ux0flrc-alisagafarovas-projects.vercel.app/).
-
+The platform includes features such as user authentication, lab management, progress tracking, networking simulations, and a RESTful API.
 The backend is built with Node.js and Express, stores data in MongoDB, uses JWT for authentication, and leverages Docker for running network simulations. Nginx is used as a reverse proxy with HTTPS via Certbot for deployment, and PM2 manages production processes.
+
+🌐 **Live Demo:**
+👉 [Learn Network Technologies from Beginner to Professional](https://aist-frontend-73ux0flrc-alisagafarovas-projects.vercel.app/)
 
 ---
 
